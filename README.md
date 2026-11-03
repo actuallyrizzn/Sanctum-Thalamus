@@ -93,4 +93,6 @@ python -m pytest tests/
 
 ## License
 
-MIT License - see LICENSE file for details 
+**Code**: All software code in this repository is licensed under the [GNU Affero General Public License v3.0](LICENSE) (AGPL-3.0).
+
+**Documentation**: All documentation, whitepapers, and non-code content is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](LICENSE-DOCS) (CC BY-SA 4.0).
