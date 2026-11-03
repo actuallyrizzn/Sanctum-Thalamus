@@ -1,5 +1,17 @@
 # Thalamus
 
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Docs License: CC BY-SA 4.0](https://img.shields.io/badge/Docs-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+> **🚨 IMPORTANT NOTICE FOR NEW DEVELOPERS** 🚨
+> 
+> **This repository has been graduated to Sanctum Core Module status!**
+> 
+> **For new development, please use the canonical source:**
+> **→ [github.com/sanctumos/thalamus](https://github.com/sanctumos/thalamus) ←**
+> 
+> This repository remains available for users who prefer to continue using this version, but new features and updates will be developed in the official Sanctum repository.
+
 A real-time transcript refinement system that processes and enhances speech-to-text output using AI.
 
 ## Features
